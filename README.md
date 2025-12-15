@@ -1,4 +1,4 @@
-# Cloud Help Desk Simulation : Inventory & Remote Support
+# Zendesk - Realistic Ticketing System Guide
 
 ## Objective
 The objective of this documentation is to provide a comprehensive overview of an IT support ticketing system, including its significance in the IT support ecosystem, common features, and a typical workflow. This document aims to equip IT professionals with the knowledge needed to understand and implement an effective ticketing system, ultimately improving service delivery and user satisfaction.
