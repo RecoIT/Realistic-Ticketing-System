@@ -2,14 +2,14 @@
 
 ### Table of Contents
 
-1. [Introduction](#introduction)
-2. [Key Features](#key-features)
-3. [Reporting and Analytics](#reporting-and-analytics)
-4. [Knowledge Base Management](#knowledge-base-management)
-5. [Case Studies](#case-studies)
-6. [Additional Projects](#additional-projects)
-7. [Conclusion](#conclusion)
-8. [Contact Information](#contact-information)
+1.  [Introduction](#introduction)
+2.  [Key Features](#key-features)
+3.  [Reporting and Analytics](#reporting-and-analytics)
+4.  [Knowledge Base Management](#knowledge-base-management)
+5.  [Case Studies](#case-studies)
+6.  [Additional Projects](#additional-projects)
+7.  [Conclusion](#conclusion)
+8.  [Contact Information](#contact-information)
 
 ## Objective
 The objective of this documentation is to provide a comprehensive overview of an IT support ticketing system, including its significance in the IT support ecosystem, common features, and a typical workflow. This document aims to equip IT professionals with the knowledge needed to understand and implement an effective ticketing system, ultimately improving service delivery and user satisfaction.
