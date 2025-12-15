@@ -1,73 +1,56 @@
-# Zendesk - Realistic Ticketing System Guide
+# Zendesk Portfolio
 
-### Table of Contents
+## Table of Contents
 
-1.  [Introduction](#introduction)
-2.  [Key Features](#key-features)
-3.  [Reporting and Analytics](#reporting-and-analytics)
-4.  [Knowledge Base Management](#knowledge-base-management)
-5.  [Case Studies](#case-studies)
-6.  [Additional Projects](#additional-projects)
-7.  [Conclusion](#conclusion)
-8.  [Contact Information](#contact-information)
+1. [Introduction](#introduction)
+2. [Ticket Management](#ticket-management)
+3. [Using Macros](#using-macros)
+4. [Automated Ticket Management](#automated-ticket-management)
+5. [Case Studies](#case-studies)
+6. [Conclusion](#conclusion)
+7. [Contact Information](#contact-information)
 
-## Objective
-The objective of this documentation is to provide a comprehensive overview of an IT support ticketing system, including its significance in the IT support ecosystem, common features, and a typical workflow. This document aims to equip IT professionals with the knowledge needed to understand and implement an effective ticketing system, ultimately improving service delivery and user satisfaction.
+## Introduction
 
-### Introduction
-An IT support ticketing system is a structured platform used to manage and track technical support requests from users. It streamlines the process of reporting, resolving, and documenting issues, enabling IT teams to address problems more efficiently. By centralizing communication and tracking task progress, a ticketing system enhances accountability, improves response times, and ensures that no requests are overlooked. This system is crucial in delivering effective IT support, enhancing user satisfaction, and optimizing resource allocation within IT departments.
+This portfolio showcases my skills in utilizing Zendesk for effective ticket management, workflow automation, and customer support optimization.
 
+## Ticket Management
 
----
-### Planning
+### Creating Tickets
+In this section, I demonstrate how to create a ticket through various channels.
 
-### Define Scope:
+![Ticket Management](images/ticket_management.png)
 
-Identify the primary functions of the ticketing system: ticket creation, tracking, assignment, and resolution.
-Determine the audience: IT support staff, managers, and stakeholders.
-Research Tools:
+Detailed steps to create a ticket can be found in [Create Ticket Example](examples/create_ticket_example.md).
 
-Investigate popular ticketing systems (e.g., Jira, Zendesk, ServiceNow).
-Collect information on their features and best practices.
-Outline Documentation:
+## Using Macros
 
-Create a structure that includes objectives, common features, workflow examples, and best practices.
-Gather Visuals:
+### Setting Up Macros
+Macros allow for standardized responses to common inquiries.
 
-Prepare flowcharts or diagrams to illustrate common workflows.
-Consider screenshots of ticketing systems for clarity.
-Review and Feedback:
+![Macros Example](images/macros_example.png)
 
-Share draft documentation with peers for feedback.
-Revise based on input before finalizing.
+Learn how to create and implement macros in [Macros Setup](examples/macros_setup.md).
 
+## Automated Ticket Management
 
----
-### Common Features
+### Workflow Automation
+Automated processes improve efficiency and response times. Here’s a flowchart of an automation setup:
 
+![Automation Workflow](images/automation_workflow.png)
 
+Steps to set up automation can be found in [Automation Setup](examples/automation_setup.md).
 
+## Case Studies
 
----
-### Workflow Example
+In this section, I present real-world scenarios where I implemented Zendesk solutions effectively.
 
+![Case Study](images/case_study.png)
 
+## Conclusion
 
+This portfolio represents my ability to manage tickets, automate workflows, and ensure high-quality customer support through Zendesk.
 
----
-### Best Practices
+## Contact Information
 
-
-
----
-### Tools and Software Recommendations
-
-
-
-
-
----
-### Conclusion
-
-
-
+For inquiries, connect with me on [LinkedIn](your-linkedin-url) or contact me at [your-email@example.com](mailto:your-email@example.com).
